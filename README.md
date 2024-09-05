@@ -8,7 +8,7 @@ I am an enthusiastic beginner on a journey to become a full stack developer.
 
 * 🌍  I'm based in Guwahati (India)
 * ✉️  You can contact me at [bisnuchetry9@gmail.com](mailto:bisnuchetry9@gmail.com)
-* 🧠  I'm learning HTML and CSS, diving into front-end development to create and style responsive web pages. Excited to grow my skills and build amazing websites!
+* 🧠  I'm learning HTML, CSS and JavaScript, diving into front-end development to create and style responsive web pages. Excited to grow my skills and build amazing websites!
 * ⚡  I'm passionate about web development and always eager to learn new technologies. Currently, I'm working on a personal project to create a portfolio website to showcase my progress and skills. Excited about the journey ahead!
 
 ### Skills
